@@ -17,7 +17,7 @@
         "https://developer.chrome.com/docs/extensions/*",
         "https://developer.chrome.com/docs/webstore/*"
       ],
-      "homepage_url": "https://mywebsite.com/gmail-extension/",
+      "homepage_url": "https://hollywoodkizzle.github.io/gmailExtension/manifest.json",
       "permissions": ["tabs", "https://www.googleapis.com/auth/gmail.readonly"]
     }
   ]
