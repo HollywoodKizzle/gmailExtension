@@ -16,7 +16,9 @@
       "matches": [
         "https://developer.chrome.com/docs/extensions/*",
         "https://developer.chrome.com/docs/webstore/*"
-      ]
+      ],
+      "homepage_url": "https://mywebsite.com/gmail-extension/",
+      "permissions": ["tabs", "https://www.googleapis.com/auth/gmail.readonly"]
     }
   ]
 }
